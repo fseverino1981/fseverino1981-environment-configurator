@@ -1,0 +1,6 @@
+app_name: "MyApp"
+database:
+  host: "hml-db.mycompany.com"
+  port: 5432
+  username: "hml_user"
+  password: "hml_pass"
